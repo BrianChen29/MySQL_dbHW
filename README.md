@@ -1,4 +1,7 @@
-# MySQL_db finalHW
+# High-speed rail booking system
+
 2020 spring <br>
 database management<br>
-final
+final<br>
+a database system for rail ticket booking 
+
